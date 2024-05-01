@@ -1,1 +1,4 @@
-angellopez1214
+<<<<<<< HEAD angellopez1214 ======= YaremiG
+practica 4 
+github 
+>>>>>>>
