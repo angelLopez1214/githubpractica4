@@ -1,2 +1,4 @@
-YaremiG
-practica 4 github 
+<<<<<<< HEAD angellopez1214 ======= YaremiG
+practica 4 
+github 
+>>>>>>>
